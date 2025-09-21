@@ -1,0 +1,5 @@
+{
+  "name": "Gosai Weather",
+  "description": "A sleek, modern weather application powered by Google's Gemini API to provide real-time weather updates and forecasts for any location worldwide.",
+  "requestFramePermissions": []
+}
